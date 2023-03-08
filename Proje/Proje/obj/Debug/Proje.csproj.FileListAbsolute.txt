@@ -1,0 +1,15 @@
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.Forms.Form2.resources
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.Forms.TumSiparis.resources
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.Forms.MenuEkle.resources
+C:\Users\eypky\OneDrive\Desktop\bilgeadamderslericin\odevler\Odev15_22_02_2023\Proje\Proje\obj\Debug\Proje.Forms.EkstraMalzeme.resources
